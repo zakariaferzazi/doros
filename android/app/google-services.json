@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "215023104127",
+    "project_id": "doros-8ee0c",
+    "storage_bucket": "doros-8ee0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215023104127:android:76a51c9bc7c35e2c0f4f4a",
+        "android_client_info": {
+          "package_name": "com.example.doros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215023104127-u0qqe54lb4fnqkijkql3up8nnsnfkba2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR_MO6tnKMX3gE2a0wmN805Af23GvmMxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215023104127-u0qqe54lb4fnqkijkql3up8nnsnfkba2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215023104127-rs1t2g3cmdoq6ckv2db39r3ss99bcql3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doros"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
